@@ -1,0 +1,86 @@
+
+
+h1 {
+	background-color: #07464C;
+	color: ghostwhite;
+	font: normal 36px/1.4 DreamAvenue;
+	}
+
+º
+
+P{
+	color: #242424;
+	text-align: center;
+	font-size: 50px;
+}
+
+p2{
+	color: #242424
+	text-align: right;
+	font: normal 17px/1.4 Mada;
+	/* prueba */
+
+}
+.my-button {
+  padding: 10px 20px;
+  background-color: #07464C;
+  color: white;
+  border: none;
+  border-radius: 100px;
+  cursor: pointer;
+  align: center;
+  font-size: 18px;
+}
+
+p3{
+	font: 22px;
+	text-align: center;
+	line-height: 137.6%;
+	font: normal 22px/1.4 Mada;
+	color: #454545;
+}
+
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#fondo{
+    width: 1133px;
+    height: 443px;
+    background-image: url(HomeHeader.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    justify-content: center;
+}
+#fondo h3{
+    color: white;
+    font: normal 38px/1.4 Georgia;
+    font-size: 60px;
+}
+
+
+h2{
+	font: 38px;
+	text-align: center;
+	color: #07464C;
+	font: normal 38px/1.4 Georgia;
+}
+
+
+
+p4{
+	font: 20px;
+	text-align: left;
+	color: #454545;
+	font: normal 20px/1.4 Mada;
+}
+
+.contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center ;
+
+}
